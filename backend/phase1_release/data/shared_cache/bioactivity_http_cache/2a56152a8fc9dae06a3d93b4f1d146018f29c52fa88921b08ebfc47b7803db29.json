@@ -1,0 +1,13 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Bos taurus",
+    "pref_name": "DNA",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3140325",
+    "target_components": [],
+    "target_type": "NUCLEIC-ACID",
+    "tax_id": 9913
+  },
+  "ok": true
+}

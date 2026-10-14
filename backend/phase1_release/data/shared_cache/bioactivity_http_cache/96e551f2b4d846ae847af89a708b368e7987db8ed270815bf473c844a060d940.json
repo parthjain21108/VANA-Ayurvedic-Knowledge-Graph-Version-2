@@ -1,0 +1,530 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Tumor necrosis factor receptor superfamily member 1A",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3378",
+    "target_components": [
+      {
+        "accession": "P19438",
+        "component_description": "Tumor necrosis factor receptor superfamily member 1A",
+        "component_id": 1701,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CD_antigen=CD120a",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "p55",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "p60",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TBPI",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TNFAR",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TNF-R1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TNFR1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TNF-RI",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TNFR-I",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TNFRSF1A",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Tumor necrosis factor-binding protein 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tumor necrosis factor receptor 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tumor necrosis factor receptor superfamily member 1A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tumor necrosis factor receptor superfamily member 1A, membrane form",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tumor necrosis factor receptor type I",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P19438",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P19438",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000139",
+            "xref_name": "Golgi membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0002947",
+            "xref_name": "tumor necrosis factor receptor superfamily complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005031",
+            "xref_name": "tumor necrosis factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038023",
+            "xref_name": "signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043120",
+            "xref_name": "tumor necrosis factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003176",
+            "xref_name": "aortic valve development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003177",
+            "xref_name": "pulmonary valve development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003332",
+            "xref_name": "negative regulation of extracellular matrix constituent secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006693",
+            "xref_name": "prostaglandin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007166",
+            "xref_name": "cell surface receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007259",
+            "xref_name": "cell surface receptor signaling pathway via JAK-STAT",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008625",
+            "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008630",
+            "xref_name": "intrinsic apoptotic signaling pathway in response to DNA damage",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010614",
+            "xref_name": "negative regulation of cardiac muscle hypertrophy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010803",
+            "xref_name": "regulation of tumor necrosis factor-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019221",
+            "xref_name": "cytokine-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033209",
+            "xref_name": "tumor necrosis factor-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034250",
+            "xref_name": "positive regulation of amide metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043123",
+            "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045834",
+            "xref_name": "positive regulation of lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050729",
+            "xref_name": "positive regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071260",
+            "xref_name": "cellular response to mechanical stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900119",
+            "xref_name": "positive regulation of execution phase of apoptosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902339",
+            "xref_name": "positive regulation of apoptotic process involved in morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903140",
+            "xref_name": "regulation of establishment of endothelial barrier",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:11916",
+            "xref_name": "TNFRSF1A",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P19438",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000488",
+            "xref_name": "Death_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001368",
+            "xref_name": "TNFR/NGFR_Cys_rich_reg",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011029",
+            "xref_name": "DEATH-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020419",
+            "xref_name": "TNFR_1A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033993",
+            "xref_name": "TNFRSF1A_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033994",
+            "xref_name": "TNFRSF1A_death",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR052493",
+            "xref_name": "TNFRSF1A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR46861",
+            "xref_name": "TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY MEMBER 1A",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR46861:SF1",
+            "xref_name": "TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY MEMBER 1A",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1EXT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FT4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ICH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1NCF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1TNR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K7A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KP7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KP8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KPB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8P6Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZUI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1EXT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1FT4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1NCF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1TNR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KP7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KP8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KPB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8P6Q",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00020",
+            "xref_name": "TNFR_c6",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00531",
+            "xref_name": "Death",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA36609",
+            "xref_name": "TNF receptor superfamily member 1A",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P19438",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5357786",
+            "xref_name": "TNFR1-induced proapoptotic signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5357905",
+            "xref_name": "Regulation of TNFR1 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5357956",
+            "xref_name": "TNFR1-induced NF-kappa-B signaling pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5626978",
+            "xref_name": "TNFR1-mediated ceramide production",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5669034",
+            "xref_name": "TNFs bind their physiological receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6783783",
+            "xref_name": "Interleukin-10 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-75893",
+            "xref_name": "TNF signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K4X3",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B2RDE4",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B3KPQ1",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DQB7",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4E309",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B5M0B5",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DUR1",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P19438",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UCA4",
+            "xref_name": "Tumor necrosis factor receptor superfamily member 1A",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

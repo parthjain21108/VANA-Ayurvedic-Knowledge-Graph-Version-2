@@ -1,0 +1,137 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Staphylococcus aureus",
+    "pref_name": "Accessory gene regulator protein A",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1681616",
+    "target_components": [
+      {
+        "accession": "P0A0I7",
+        "component_description": "Accessory gene regulator protein A",
+        "component_id": 4944,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Accessory gene regulator protein A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "agr",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "agrA",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P0A0I7",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000156",
+            "xref_name": "phosphorelay response regulator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000160",
+            "xref_name": "phosphorelay signal transduction system",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P0A0I7",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001789",
+            "xref_name": "Sig_transdc_resp-reg_receiver",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR007492",
+            "xref_name": "LytTR_DNA-bd_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011006",
+            "xref_name": "CheY-like_superfamily",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046947",
+            "xref_name": "LytR-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR37299",
+            "xref_name": "TRANSCRIPTIONAL REGULATOR-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR37299:SF3",
+            "xref_name": "STAGE 0 SPORULATION PROTEIN A HOMOLOG",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3BS1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4G4K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BS1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4G4K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00072",
+            "xref_name": "Response_reg",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF04397",
+            "xref_name": "LytTR",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "P0A0I7",
+            "xref_name": "Accessory gene regulator protein A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P13131",
+            "xref_name": "Accessory gene regulator protein A",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 1280
+  },
+  "ok": true
+}

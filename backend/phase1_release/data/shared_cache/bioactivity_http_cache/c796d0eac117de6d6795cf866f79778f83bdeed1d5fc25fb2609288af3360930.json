@@ -1,0 +1,326 @@
+{
+  "data": {
+    "accession": "Q16654",
+    "component_id": 2460,
+    "component_type": "PROTEIN",
+    "description": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 119
+      }
+    ],
+    "sequence": "MKAARFVLRSAGSLNGAGLVPREVEHFSRYSPSPLSMKQLLDFGSENACERTSFAFLRQELPVRLANILKEIDILPTQLVNTSSVQLVKSWYIQSLMDLVEFHEKSPDDQKALSDFVDTLIKVRNRHHNVVPTMAQGIIEYKDACTVDPVTNQNLQYFLDRFYMNRISTRMLMNQHILIFSDSQTGNPSHIGSIDPNCDVVAVVQDAFECSRMLCDQYYLSSPELKLTQVNGKFPDQPIHIVYVPSHLHHMLFELFKNAMRATVEHQENQPSLTPIEVIVVLGKEDLTIKISDRGGGVPLRIIDRLFSYTYSTAPTPVMDNSRNAPLAGFGYGLPISRLYAKYFQGDLNLYSLSGYGTDAIIYLKALSSESIEKLPVFNKSAFKHYQMSSEADDWCIPSREPKNLAKEVAM",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.2",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "PDHK4",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "PDK4",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Pyruvate dehydrogenase kinase isoform 4",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q16654",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q16654",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006885",
+        "xref_name": "regulation of pH",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008286",
+        "xref_name": "insulin receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009267",
+        "xref_name": "cellular response to starvation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042593",
+        "xref_name": "glucose homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042594",
+        "xref_name": "response to starvation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045124",
+        "xref_name": "regulation of bone resorption",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071398",
+        "xref_name": "cellular response to fatty acid",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072593",
+        "xref_name": "reactive oxygen species metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000811",
+        "xref_name": "negative regulation of anoikis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:8812",
+        "xref_name": "PDK4",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q16654",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR003594",
+        "xref_name": "HATPase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005467",
+        "xref_name": "His_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018955",
+        "xref_name": "BCDHK/PDK_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036784",
+        "xref_name": "AK/P_DHK_N_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036890",
+        "xref_name": "HATPase_C_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR039028",
+        "xref_name": "BCKD/PDK",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11947",
+        "xref_name": "PYRUVATE DEHYDROGENASE KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11947:SF22",
+        "xref_name": "[PYRUVATE DEHYDROGENASE (ACETYL-TRANSFERRING)] KINASE ISOZYME 4, MITOCHONDRIAL",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2E0A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZDX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZDY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZKJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3D2R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7EAT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7EBB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7EBG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2E0A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ZDX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ZDY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ZKJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3D2R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7EAT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7EBB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7EBG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF02518",
+        "xref_name": "HATPase_c",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF10436",
+        "xref_name": "BCDHK_Adom3",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA33157",
+        "xref_name": "pyruvate dehydrogenase kinase 4",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q16654",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-204174",
+        "xref_name": "Regulation of pyruvate dehydrogenase (PDH) complex",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5362517",
+        "xref_name": "Signaling by Retinoic Acid",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9841922",
+        "xref_name": "MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q16654",
+        "xref_name": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4141"
+      },
+      {
+        "target_chembl_id": "CHEMBL2096665"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

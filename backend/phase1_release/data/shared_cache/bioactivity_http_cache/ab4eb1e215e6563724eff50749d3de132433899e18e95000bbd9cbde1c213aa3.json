@@ -1,0 +1,215 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Schizosaccharomyces pombe 972h-",
+    "pref_name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1163121",
+    "target_components": [
+      {
+        "accession": "Q10283",
+        "component_description": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+        "component_id": 4786,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.1.1.34",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "hmg1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "HMG-CoA reductase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "its12",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q10283",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005635",
+            "xref_name": "nuclear envelope",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005778",
+            "xref_name": "peroxisomal membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031965",
+            "xref_name": "nuclear membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042175",
+            "xref_name": "nuclear outer membrane-endoplasmic reticulum membrane network",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004420",
+            "xref_name": "hydroxymethylglutaryl-CoA reductase (NADPH) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006696",
+            "xref_name": "ergosterol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008299",
+            "xref_name": "isoprenoid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010142",
+            "xref_name": "farnesyl diphosphate biosynthetic process, mevalonate pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0015936",
+            "xref_name": "coenzyme A metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016126",
+            "xref_name": "sterol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019287",
+            "xref_name": "isopentenyl diphosphate biosynthetic process, mevalonate pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR000731",
+            "xref_name": "SSD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002202",
+            "xref_name": "HMG_CoA_Rdtase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004554",
+            "xref_name": "HMG_CoA_Rdtase_eu_arc",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR009023",
+            "xref_name": "HMG_CoA_Rdtase_NAD(P)-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR009029",
+            "xref_name": "HMG_CoA_Rdtase_sub-bd_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023074",
+            "xref_name": "HMG_CoA_Rdtase_cat_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023076",
+            "xref_name": "HMG_CoA_Rdtase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023282",
+            "xref_name": "HMG_CoA_Rdtase_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR053958",
+            "xref_name": "HMGCR/SNAP/NPC1-like_SSD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10572",
+            "xref_name": "3-HYDROXY-3-METHYLGLUTARYL-COENZYME A REDUCTASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10572:SF24",
+            "xref_name": "3-HYDROXY-3-METHYLGLUTARYL-COENZYME A REDUCTASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00368",
+            "xref_name": "HMG-CoA_red",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF12349",
+            "xref_name": "Sterol-sensing",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-SPO-191273",
+            "xref_name": "Cholesterol biosynthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O74425",
+            "xref_name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q10283",
+            "xref_name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 284812
+  },
+  "ok": true
+}

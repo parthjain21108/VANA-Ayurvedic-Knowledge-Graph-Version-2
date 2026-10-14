@@ -1,0 +1,13 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Amaranthus hypochondriacus",
+    "pref_name": "Amaranthus hypochondriacus",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL613799",
+    "target_components": [],
+    "target_type": "ORGANISM",
+    "tax_id": 28502
+  },
+  "ok": true
+}

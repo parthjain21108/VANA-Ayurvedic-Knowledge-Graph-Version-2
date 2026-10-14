@@ -1,0 +1,628 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3861",
+    "target_components": [
+      {
+        "accession": "Q15119",
+        "component_description": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+        "component_id": 2179,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.11.2",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "PDHK2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PDH kinase 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PDK2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "PDKII",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Pyruvate dehydrogenase kinase isoform 2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q15119",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q15119",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045254",
+            "xref_name": "pyruvate dehydrogenase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016301",
+            "xref_name": "kinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006006",
+            "xref_name": "glucose metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006885",
+            "xref_name": "regulation of pH",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008286",
+            "xref_name": "insulin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031670",
+            "xref_name": "cellular response to nutrient",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034614",
+            "xref_name": "cellular response to reactive oxygen species",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042593",
+            "xref_name": "glucose homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050848",
+            "xref_name": "regulation of calcium-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0072332",
+            "xref_name": "intrinsic apoptotic signaling pathway by p53 class mediator",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:8810",
+            "xref_name": "PDK2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q15119",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR003594",
+            "xref_name": "HATPase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005467",
+            "xref_name": "His_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018955",
+            "xref_name": "BCDHK/PDK_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036784",
+            "xref_name": "AK/P_DHK_N_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036890",
+            "xref_name": "HATPase_C_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR039028",
+            "xref_name": "BCKD/PDK",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11947",
+            "xref_name": "PYRUVATE DEHYDROGENASE KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11947:SF15",
+            "xref_name": "[PYRUVATE DEHYDROGENASE (ACETYL-TRANSFERRING)] KINASE ISOZYME 2, MITOCHONDRIAL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2BTZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BU2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BU5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BU6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BU7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BU8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MP2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MP7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MPC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MPE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MPN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4V25",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4V26",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5J6A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5J71",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5M4K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5M4M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5M4N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5M4P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6LIL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6LIN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6LIO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6TMP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6TMQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6TMZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6TN0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6TN2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EA0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EAS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EBH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VBU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VBV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VBX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZM1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZM2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9M3R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9M3T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9M3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BTZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2BU2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2BU5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2BU6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2BU7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2BU8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MP2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MP7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MPC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MPE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MPN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4V25",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4V26",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5J6A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5J71",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5M4K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5M4M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5M4N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5M4P",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6LIL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6LIN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6LIO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6TMP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6TMQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6TMZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6TN0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6TN2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7EA0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7EAS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7EBH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7VBU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7VBV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7VBX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8ZM1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8ZM2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9M3R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9M3T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9M3U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF02518",
+            "xref_name": "HATPase_c",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF10436",
+            "xref_name": "BCDHK_Adom3",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33155",
+            "xref_name": "pyruvate dehydrogenase kinase 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q15119",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-204174",
+            "xref_name": "Regulation of pyruvate dehydrogenase (PDH) complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5362517",
+            "xref_name": "Signaling by Retinoic Acid",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K3A7",
+            "xref_name": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B3KNW0",
+            "xref_name": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15119",
+            "xref_name": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6P515",
+            "xref_name": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BS05",
+            "xref_name": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}
