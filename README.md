@@ -266,14 +266,48 @@ The whole stack runs from one `docker compose up`. Only the frontend container i
 
 ## 🖼️ Screenshots
 
-> Screenshots coming soon. Thank you for your patience.
-
-<!--
-<p align="center">
-  <img src="docs/assets/plant-search.png" width="49%" />
-  <img src="docs/assets/knowledge-graph.png" width="49%" />
-</p>
--->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/assets/1.png" alt="VANA Screenshot 1" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="docs/assets/2.png" alt="VANA Screenshot 2" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="docs/assets/3.png" alt="VANA Screenshot 3" width="100%" />
+    </td>
+    <td>
+      <img src="docs/assets/4.png" alt="VANA Screenshot 4" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="docs/assets/5.png" alt="VANA Screenshot 5" width="100%" />
+    </td>
+    <td>
+      <img src="docs/assets/6.png" alt="VANA Screenshot 6" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="docs/assets/7.png" alt="VANA Screenshot 7" width="100%" />
+    </td>
+    <td>
+      <img src="docs/assets/8.png" alt="VANA Screenshot 8" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="docs/assets/9.png" alt="VANA Screenshot 9" width="100%" />
+    </td>
+    <td>
+      <img src="docs/assets/10.png" alt="VANA Screenshot 10" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
